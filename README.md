@@ -1,2 +1,0 @@
-# EstruturaDeDados-
-Atividades e Trabalhos
